@@ -55,7 +55,7 @@ I'm a Data Analyst passionate about transforming raw data into actionable insigh
 ---
 ### 🌐 Connect with Me
 
-- 📧 **Email:** ashutoshpanda979@gmail.com
+- 📧 **Email:** e.pandaashu@gmail.com
 - 💼 **LinkedIn:** [ashutosh-panda-b33939182](https://www.linkedin.com/in/ashutosh-panda-b33939182/)
 
 ---
